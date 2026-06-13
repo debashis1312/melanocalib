@@ -234,16 +234,6 @@ For the DermaCon-IN dataset:
 }
 ```
 
----
-
-## 🙏 Acknowledgements
-
-- **Dr. Sumit Das**, Department of IT, JIS College of Engineering — project guidance
-- The board-certified dermatologists and clinical staff at the collaborating hospitals who annotated the DermaCon-IN dataset
-- The [timm](https://github.com/huggingface/pytorch-image-models) library for the Swin Transformer implementation
-- The open-source research community for publicly available tools and architectures
-
----
 
 ## 📬 Contact
 
